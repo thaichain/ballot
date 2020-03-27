@@ -3,6 +3,8 @@
  * @author Jackson Ng <jackson@jacksonng.org>
  * @date created 22nd Apr 2019
  * @date last modified 30th Apr 2019
+ * Contributor(s):
+ * Dome Charoenyost <dome@dome.cloud>
  */
 
 pragma solidity ^0.5.0;
